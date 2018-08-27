@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+    <line>
+      <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [TestBase]  Default web driver is created successfully!</font>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO]   [PlayWithPagesTest]  Launching the home page]]>
+    </line>
+    <line>
+      <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [ReadProperties]  stage.properties</font>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO]   [HomePage]  http://www.ticketnew.com/Movie-Ticket-Online-booking/C/Bangalore]]>
+    </line>
+    <line>
+      <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [PlayWithPagesTest]  clicking Login/Sign Up</font>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO]   [BasePage]  Trying To Find Element From By Locator By.xpath: //span[text()='Log In/Sign Up']]]>
+    </line>
+    <line>
+      <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [BasePage]  Trying To Find Element From By Locator By.xpath: //span[text()='Log In/Sign Up']</font>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO]   [ReadProperties]  stage.properties]]>
+    </line>
+    <line>
+      <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [PlayWithPagesTest]  clicking OFFERS</font>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO]   [BasePage]  Trying To Find Element From By Locator By.xpath: //span[text()='OFFERS']]]>
+    </line>
+    <line>
+      <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [BasePage]  Trying To Find Element From By Locator By.xpath: //span[text()='OFFERS']</font>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO]   [PlayWithPagesTest]  clicking App]]>
+    </line>
+    <line>
+      <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [OffersPage]  Clicking App link</font>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO]   [BasePage]  Trying To Find Element From By Locator By.xpath: //span[text()='APP']]]>
+    </line>
+    <line>
+      <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [BasePage]  Trying To Find Element From By Locator By.xpath: //span[text()='APP']</font>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO]   [PlayWithPagesTest]  clicking again Login/Sign Up]]>
+    </line>
+    <line>
+      <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [BasePage]  Trying To Find Element From By Locator By.xpath: //span[text()='Log In/Sign Up']</font>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO]   [BasePage]  Trying To Find Element From By Locator By.xpath: //span[text()='Log In/Sign Up']]]>
+    </line>
+    <line>
+      <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [TestBase]  Quiting the web driver</font>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO]   [TestBase]  Default web driver is created successfully!]]>
+    </line>
+    <line>
+      <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [PlayWithPagesTest]  Launching the home page</font>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO]   [ReadProperties]  stage.properties]]>
+    </line>
+    <line>
+      <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [HomePage]  http://www.ticketnew.com/Movie-Ticket-Online-booking/C/Bangalore</font>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO]   [PlayWithPagesTest]  clicking Login/Sign Up]]>
+    </line>
+    <line>
+      <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [BasePage]  Trying To Find Element From By Locator By.xpath: //span[text()='Log In/Sign Up']</font>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO]   [BasePage]  Trying To Find Element From By Locator By.xpath: //span[text()='Log In/Sign Up']]]>
+    </line>
+    <line>
+      <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [PlayWithPagesTest]  clicking OFFERS</font>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO]   [BasePage]  Trying To Find Element From By Locator By.xpath: //span[text()='OFFERS']]]>
+    </line>
+    <line>
+      <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [BasePage]  Trying To Find Element From By Locator By.xpath: //span[text()='OFFERS']</font>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO]   [PlayWithPagesTest]  clicking App]]>
+    </line>
+    <line>
+      <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [OffersPage]  Clicking App link</font>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO]   [BasePage]  Trying To Find Element From By Locator By.xpath: //span[text()='APP']]]>
+    </line>
+    <line>
+      <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [BasePage]  Trying To Find Element From By Locator By.xpath: //span[text()='APP']</font>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO]   [PlayWithPagesTest]  clicking again Login/Sign Up]]>
+    </line>
+    <line>
+      <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [BasePage]  Trying To Find Element From By Locator By.xpath: //span[text()='Log In/Sign Up']</font>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO]   [BasePage]  Trying To Find Element From By Locator By.xpath: //span[text()='Log In/Sign Up']]]>
+    </line>
+    <line>
+      <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [TestBase]  Quiting the web driver</font>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO]   [TestBase]  Default web driver is created successfully!]]>
+    </line>
+    <line>
+      <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [PlayWithPagesTest]  Launching the home page</font>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO]   [ReadProperties]  stage.properties]]>
+    </line>
+    <line>
+      <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [HomePage]  http://www.ticketnew.com/Movie-Ticket-Online-booking/C/Bangalore</font>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO]   [PlayWithPagesTest]  clicking Login/Sign Up]]>
+    </line>
+    <line>
+      <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [BasePage]  Trying To Find Element From By Locator By.xpath: //span[text()='Log In/Sign Up']</font>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO]   [BasePage]  Trying To Find Element From By Locator By.xpath: //span[text()='Log In/Sign Up']]]>
+    </line>
+    <line>
+      <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [PlayWithPagesTest]  clicking OFFERS</font>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO]   [BasePage]  Trying To Find Element From By Locator By.xpath: //span[text()='OFFERS']]]>
+    </line>
+    <line>
+      <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [BasePage]  Trying To Find Element From By Locator By.xpath: //span[text()='OFFERS']</font>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO]   [PlayWithPagesTest]  clicking App]]>
+    </line>
+    <line>
+      <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [OffersPage]  Clicking App link</font>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO]   [BasePage]  Trying To Find Element From By Locator By.xpath: //span[text()='APP']]]>
+    </line>
+    <line>
+      <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [BasePage]  Trying To Find Element From By Locator By.xpath: //span[text()='APP']</font>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO]   [PlayWithPagesTest]  clicking again Login/Sign Up]]>
+    </line>
+    <line>
+      <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [BasePage]  Trying To Find Element From By Locator By.xpath: //span[text()='Log In/Sign Up']</font>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO]   [BasePage]  Trying To Find Element From By Locator By.xpath: //span[text()='Log In/Sign Up']]]>
+    </line>
+    <line>
+      <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [TestBase]  Quiting the web driver</font>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO]   [TestBase]  Default web driver is created successfully!]]>
+    </line>
+    <line>
+      <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [PlayWithPagesTest]  Launching the home page</font>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO]   [ReadProperties]  stage.properties]]>
+    </line>
+    <line>
+      <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [HomePage]  http://www.ticketnew.com/Movie-Ticket-Online-booking/C/Bangalore</font>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO]   [PlayWithPagesTest]  clicking Login/Sign Up]]>
+    </line>
+    <line>
+      <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [BasePage]  Trying To Find Element From By Locator By.xpath: //span[text()='Log In/Sign Up']</font>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO]   [BasePage]  Trying To Find Element From By Locator By.xpath: //span[text()='Log In/Sign Up']]]>
+    </line>
+    <line>
+      <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [PlayWithPagesTest]  clicking OFFERS</font>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO]   [BasePage]  Trying To Find Element From By Locator By.xpath: //span[text()='OFFERS']]]>
+    </line>
+    <line>
+      <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [BasePage]  Trying To Find Element From By Locator By.xpath: //span[text()='OFFERS']</font>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO]   [PlayWithPagesTest]  clicking App]]>
+    </line>
+    <line>
+      <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [OffersPage]  Clicking App link</font>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO]   [BasePage]  Trying To Find Element From By Locator By.xpath: //span[text()='APP']]]>
+    </line>
+    <line>
+      <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [BasePage]  Trying To Find Element From By Locator By.xpath: //span[text()='APP']</font>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO]   [PlayWithPagesTest]  clicking again Login/Sign Up]]>
+    </line>
+    <line>
+      <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [BasePage]  Trying To Find Element From By Locator By.xpath: //span[text()='Log In/Sign Up']</font>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO]   [BasePage]  Trying To Find Element From By Locator By.xpath: //span[text()='Log In/Sign Up']]]>
+    </line>
+    <line>
+      <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [TestBase]  Quiting the web driver</font>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO]   [TestBase]  Default web driver is created successfully!]]>
+    </line>
+    <line>
+      <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [PlayWithPagesTest]  Launching the home page</font>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO]   [ReadProperties]  stage.properties]]>
+    </line>
+    <line>
+      <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [HomePage]  http://www.ticketnew.com/Movie-Ticket-Online-booking/C/Bangalore</font>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO]   [PlayWithPagesTest]  clicking Login/Sign Up]]>
+    </line>
+    <line>
+      <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [BasePage]  Trying To Find Element From By Locator By.xpath: //span[text()='Log In/Sign Up']</font>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO]   [BasePage]  Trying To Find Element From By Locator By.xpath: //span[text()='Log In/Sign Up']]]>
+    </line>
+    <line>
+      <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [PlayWithPagesTest]  clicking OFFERS</font>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO]   [BasePage]  Trying To Find Element From By Locator By.xpath: //span[text()='OFFERS']]]>
+    </line>
+    <line>
+      <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [BasePage]  Trying To Find Element From By Locator By.xpath: //span[text()='OFFERS']</font>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO]   [PlayWithPagesTest]  clicking App]]>
+    </line>
+    <line>
+      <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [OffersPage]  Clicking App link</font>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO]   [BasePage]  Trying To Find Element From By Locator By.xpath: //span[text()='APP']]]>
+    </line>
+    <line>
+      <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [BasePage]  Trying To Find Element From By Locator By.xpath: //span[text()='APP']</font>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO]   [PlayWithPagesTest]  clicking again Login/Sign Up]]>
+    </line>
+    <line>
+      <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [BasePage]  Trying To Find Element From By Locator By.xpath: //span[text()='Log In/Sign Up']</font>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO]   [BasePage]  Trying To Find Element From By Locator By.xpath: //span[text()='Log In/Sign Up']]]>
+    </line>
+    <line>
+      <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [TestBase]  Quiting the web driver</font>]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="40776" started-at="2018-06-22T15:15:22Z" finished-at="2018-06-22T15:16:03Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="40776" started-at="2018-06-22T15:15:22Z" finished-at="2018-06-22T15:16:03Z">
+      <class name="com.auto.framework.pom.pom_framework.testing.PlayWithPagesTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.auto.framework.pom.pom_framework.testing.PlayWithPagesTest@56f4468b]" name="setUp" is-config="true" duration-ms="1369" started-at="2018-06-22T20:45:22Z" finished-at="2018-06-22T20:45:23Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [TestBase]  Default web driver is created successfully!</font>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="playWithPagesTest()[pri:0, instance:com.auto.framework.pom.pom_framework.testing.PlayWithPagesTest@56f4468b]" name="playWithPagesTest" duration-ms="6689" started-at="2018-06-22T20:45:23Z" finished-at="2018-06-22T20:45:30Z">
+          <reporter-output>
+            <line>
+              <![CDATA[[INFO]   [PlayWithPagesTest]  Launching the home page]]>
+            </line>
+            <line>
+              <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [ReadProperties]  stage.properties</font>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO]   [HomePage]  http://www.ticketnew.com/Movie-Ticket-Online-booking/C/Bangalore]]>
+            </line>
+            <line>
+              <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [PlayWithPagesTest]  clicking Login/Sign Up</font>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO]   [BasePage]  Trying To Find Element From By Locator By.xpath: //span[text()='Log In/Sign Up']]]>
+            </line>
+            <line>
+              <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [BasePage]  Trying To Find Element From By Locator By.xpath: //span[text()='Log In/Sign Up']</font>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO]   [ReadProperties]  stage.properties]]>
+            </line>
+            <line>
+              <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [PlayWithPagesTest]  clicking OFFERS</font>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO]   [BasePage]  Trying To Find Element From By Locator By.xpath: //span[text()='OFFERS']]]>
+            </line>
+            <line>
+              <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [BasePage]  Trying To Find Element From By Locator By.xpath: //span[text()='OFFERS']</font>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO]   [PlayWithPagesTest]  clicking App]]>
+            </line>
+            <line>
+              <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [OffersPage]  Clicking App link</font>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO]   [BasePage]  Trying To Find Element From By Locator By.xpath: //span[text()='APP']]]>
+            </line>
+            <line>
+              <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [BasePage]  Trying To Find Element From By Locator By.xpath: //span[text()='APP']</font>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO]   [PlayWithPagesTest]  clicking again Login/Sign Up]]>
+            </line>
+            <line>
+              <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [BasePage]  Trying To Find Element From By Locator By.xpath: //span[text()='Log In/Sign Up']</font>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO]   [BasePage]  Trying To Find Element From By Locator By.xpath: //span[text()='Log In/Sign Up']]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- playWithPagesTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.auto.framework.pom.pom_framework.testing.PlayWithPagesTest@56f4468b]" name="tearDown" is-config="true" duration-ms="104" started-at="2018-06-22T20:45:30Z" finished-at="2018-06-22T20:45:30Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [TestBase]  Quiting the web driver</font>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.auto.framework.pom.pom_framework.testing.PlayWithPagesTest@56f4468b]" name="setUp" is-config="true" duration-ms="861" started-at="2018-06-22T20:45:30Z" finished-at="2018-06-22T20:45:31Z">
+          <reporter-output>
+            <line>
+              <![CDATA[[INFO]   [TestBase]  Default web driver is created successfully!]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="playWithPagesTest2()[pri:0, instance:com.auto.framework.pom.pom_framework.testing.PlayWithPagesTest@56f4468b]" name="playWithPagesTest2" duration-ms="6721" started-at="2018-06-22T20:45:31Z" finished-at="2018-06-22T20:45:38Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [PlayWithPagesTest]  Launching the home page</font>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO]   [ReadProperties]  stage.properties]]>
+            </line>
+            <line>
+              <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [HomePage]  http://www.ticketnew.com/Movie-Ticket-Online-booking/C/Bangalore</font>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO]   [PlayWithPagesTest]  clicking Login/Sign Up]]>
+            </line>
+            <line>
+              <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [BasePage]  Trying To Find Element From By Locator By.xpath: //span[text()='Log In/Sign Up']</font>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO]   [BasePage]  Trying To Find Element From By Locator By.xpath: //span[text()='Log In/Sign Up']]]>
+            </line>
+            <line>
+              <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [PlayWithPagesTest]  clicking OFFERS</font>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO]   [BasePage]  Trying To Find Element From By Locator By.xpath: //span[text()='OFFERS']]]>
+            </line>
+            <line>
+              <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [BasePage]  Trying To Find Element From By Locator By.xpath: //span[text()='OFFERS']</font>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO]   [PlayWithPagesTest]  clicking App]]>
+            </line>
+            <line>
+              <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [OffersPage]  Clicking App link</font>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO]   [BasePage]  Trying To Find Element From By Locator By.xpath: //span[text()='APP']]]>
+            </line>
+            <line>
+              <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [BasePage]  Trying To Find Element From By Locator By.xpath: //span[text()='APP']</font>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO]   [PlayWithPagesTest]  clicking again Login/Sign Up]]>
+            </line>
+            <line>
+              <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [BasePage]  Trying To Find Element From By Locator By.xpath: //span[text()='Log In/Sign Up']</font>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO]   [BasePage]  Trying To Find Element From By Locator By.xpath: //span[text()='Log In/Sign Up']]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- playWithPagesTest2 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.auto.framework.pom.pom_framework.testing.PlayWithPagesTest@56f4468b]" name="tearDown" is-config="true" duration-ms="89" started-at="2018-06-22T20:45:38Z" finished-at="2018-06-22T20:45:38Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [TestBase]  Quiting the web driver</font>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.auto.framework.pom.pom_framework.testing.PlayWithPagesTest@56f4468b]" name="setUp" is-config="true" duration-ms="817" started-at="2018-06-22T20:45:38Z" finished-at="2018-06-22T20:45:39Z">
+          <reporter-output>
+            <line>
+              <![CDATA[[INFO]   [TestBase]  Default web driver is created successfully!]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="playWithPagesTest3()[pri:0, instance:com.auto.framework.pom.pom_framework.testing.PlayWithPagesTest@56f4468b]" name="playWithPagesTest3" duration-ms="8632" started-at="2018-06-22T20:45:39Z" finished-at="2018-06-22T20:45:47Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [PlayWithPagesTest]  Launching the home page</font>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO]   [ReadProperties]  stage.properties]]>
+            </line>
+            <line>
+              <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [HomePage]  http://www.ticketnew.com/Movie-Ticket-Online-booking/C/Bangalore</font>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO]   [PlayWithPagesTest]  clicking Login/Sign Up]]>
+            </line>
+            <line>
+              <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [BasePage]  Trying To Find Element From By Locator By.xpath: //span[text()='Log In/Sign Up']</font>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO]   [BasePage]  Trying To Find Element From By Locator By.xpath: //span[text()='Log In/Sign Up']]]>
+            </line>
+            <line>
+              <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [PlayWithPagesTest]  clicking OFFERS</font>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO]   [BasePage]  Trying To Find Element From By Locator By.xpath: //span[text()='OFFERS']]]>
+            </line>
+            <line>
+              <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [BasePage]  Trying To Find Element From By Locator By.xpath: //span[text()='OFFERS']</font>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO]   [PlayWithPagesTest]  clicking App]]>
+            </line>
+            <line>
+              <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [OffersPage]  Clicking App link</font>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO]   [BasePage]  Trying To Find Element From By Locator By.xpath: //span[text()='APP']]]>
+            </line>
+            <line>
+              <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [BasePage]  Trying To Find Element From By Locator By.xpath: //span[text()='APP']</font>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO]   [PlayWithPagesTest]  clicking again Login/Sign Up]]>
+            </line>
+            <line>
+              <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [BasePage]  Trying To Find Element From By Locator By.xpath: //span[text()='Log In/Sign Up']</font>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO]   [BasePage]  Trying To Find Element From By Locator By.xpath: //span[text()='Log In/Sign Up']]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- playWithPagesTest3 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.auto.framework.pom.pom_framework.testing.PlayWithPagesTest@56f4468b]" name="tearDown" is-config="true" duration-ms="88" started-at="2018-06-22T20:45:47Z" finished-at="2018-06-22T20:45:47Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [TestBase]  Quiting the web driver</font>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.auto.framework.pom.pom_framework.testing.PlayWithPagesTest@56f4468b]" name="setUp" is-config="true" duration-ms="792" started-at="2018-06-22T20:45:47Z" finished-at="2018-06-22T20:45:48Z">
+          <reporter-output>
+            <line>
+              <![CDATA[[INFO]   [TestBase]  Default web driver is created successfully!]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="playWithPagesTest4()[pri:0, instance:com.auto.framework.pom.pom_framework.testing.PlayWithPagesTest@56f4468b]" name="playWithPagesTest4" duration-ms="6134" started-at="2018-06-22T20:45:48Z" finished-at="2018-06-22T20:45:54Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [PlayWithPagesTest]  Launching the home page</font>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO]   [ReadProperties]  stage.properties]]>
+            </line>
+            <line>
+              <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [HomePage]  http://www.ticketnew.com/Movie-Ticket-Online-booking/C/Bangalore</font>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO]   [PlayWithPagesTest]  clicking Login/Sign Up]]>
+            </line>
+            <line>
+              <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [BasePage]  Trying To Find Element From By Locator By.xpath: //span[text()='Log In/Sign Up']</font>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO]   [BasePage]  Trying To Find Element From By Locator By.xpath: //span[text()='Log In/Sign Up']]]>
+            </line>
+            <line>
+              <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [PlayWithPagesTest]  clicking OFFERS</font>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO]   [BasePage]  Trying To Find Element From By Locator By.xpath: //span[text()='OFFERS']]]>
+            </line>
+            <line>
+              <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [BasePage]  Trying To Find Element From By Locator By.xpath: //span[text()='OFFERS']</font>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO]   [PlayWithPagesTest]  clicking App]]>
+            </line>
+            <line>
+              <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [OffersPage]  Clicking App link</font>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO]   [BasePage]  Trying To Find Element From By Locator By.xpath: //span[text()='APP']]]>
+            </line>
+            <line>
+              <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [BasePage]  Trying To Find Element From By Locator By.xpath: //span[text()='APP']</font>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO]   [PlayWithPagesTest]  clicking again Login/Sign Up]]>
+            </line>
+            <line>
+              <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [BasePage]  Trying To Find Element From By Locator By.xpath: //span[text()='Log In/Sign Up']</font>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO]   [BasePage]  Trying To Find Element From By Locator By.xpath: //span[text()='Log In/Sign Up']]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- playWithPagesTest4 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.auto.framework.pom.pom_framework.testing.PlayWithPagesTest@56f4468b]" name="tearDown" is-config="true" duration-ms="87" started-at="2018-06-22T20:45:54Z" finished-at="2018-06-22T20:45:54Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [TestBase]  Quiting the web driver</font>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.auto.framework.pom.pom_framework.testing.PlayWithPagesTest@56f4468b]" name="setUp" is-config="true" duration-ms="831" started-at="2018-06-22T20:45:54Z" finished-at="2018-06-22T20:45:55Z">
+          <reporter-output>
+            <line>
+              <![CDATA[[INFO]   [TestBase]  Default web driver is created successfully!]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="playWithPagesTest5()[pri:0, instance:com.auto.framework.pom.pom_framework.testing.PlayWithPagesTest@56f4468b]" name="playWithPagesTest5" duration-ms="7452" started-at="2018-06-22T20:45:55Z" depends-on-methods="com.auto.framework.pom.pom_framework.testing.PlayWithPagesTest.playWithPagesTest4" finished-at="2018-06-22T20:46:03Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [PlayWithPagesTest]  Launching the home page</font>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO]   [ReadProperties]  stage.properties]]>
+            </line>
+            <line>
+              <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [HomePage]  http://www.ticketnew.com/Movie-Ticket-Online-booking/C/Bangalore</font>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO]   [PlayWithPagesTest]  clicking Login/Sign Up]]>
+            </line>
+            <line>
+              <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [BasePage]  Trying To Find Element From By Locator By.xpath: //span[text()='Log In/Sign Up']</font>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO]   [BasePage]  Trying To Find Element From By Locator By.xpath: //span[text()='Log In/Sign Up']]]>
+            </line>
+            <line>
+              <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [PlayWithPagesTest]  clicking OFFERS</font>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO]   [BasePage]  Trying To Find Element From By Locator By.xpath: //span[text()='OFFERS']]]>
+            </line>
+            <line>
+              <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [BasePage]  Trying To Find Element From By Locator By.xpath: //span[text()='OFFERS']</font>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO]   [PlayWithPagesTest]  clicking App]]>
+            </line>
+            <line>
+              <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [OffersPage]  Clicking App link</font>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO]   [BasePage]  Trying To Find Element From By Locator By.xpath: //span[text()='APP']]]>
+            </line>
+            <line>
+              <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [BasePage]  Trying To Find Element From By Locator By.xpath: //span[text()='APP']</font>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO]   [PlayWithPagesTest]  clicking again Login/Sign Up]]>
+            </line>
+            <line>
+              <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [BasePage]  Trying To Find Element From By Locator By.xpath: //span[text()='Log In/Sign Up']</font>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO]   [BasePage]  Trying To Find Element From By Locator By.xpath: //span[text()='Log In/Sign Up']]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- playWithPagesTest5 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.auto.framework.pom.pom_framework.testing.PlayWithPagesTest@56f4468b]" name="tearDown" is-config="true" duration-ms="90" started-at="2018-06-22T20:46:03Z" finished-at="2018-06-22T20:46:03Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<font style='background-color:#E7E4E4';>[INFO]   [TestBase]  Quiting the web driver</font>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.auto.framework.pom.pom_framework.testing.PlayWithPagesTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
